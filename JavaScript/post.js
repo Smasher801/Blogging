@@ -1,4 +1,5 @@
 function editData(){
+    document.getElementById('button').innerHTML = "Save"+ ' '+'<i class="fa fa-floppy-o" aria-hidden="true"></i>';
     var track = document.getElementById('heading');
     var track1 = document.getElementById('para');
     track.contentEditable = "true";
