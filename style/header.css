@@ -1,0 +1,52 @@
+.form{
+    display: flex;
+    
+    
+}
+/* .logo{ */
+    /* display:flex;
+    flex-direction: row; */
+    
+/* } */
+.header{
+    display: flex;
+    justify-content:flex-end;
+    align-items:flex-end;
+    flex-direction: row;
+}
+.sign{
+    margin-left: 7px;
+    padding-top: 1px;
+    height: 25px;
+    margin-top: 10px;
+    background-color: blue;
+    border: 0px;
+    color: burlywood;
+}
+.sign1{
+    margin-left: 7px;
+    padding-top: 1px;
+    height: 25px;
+    margin-top: 10px;
+    background-color: blue;
+    border: 0px;
+    color: burlywood;
+}
+p{
+    margin-left: 7px;
+    margin-top: -5px;
+    padding-top: 10px;
+}
+.text{
+    font-family: 'Marck Script', cursive;
+    font-size: 10px;
+}
+.logo{
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    margin-bottom : -30px;
+    margin-top: -39px;
+    padding :inherit;
+    color: blue;
+    
+}

@@ -1,0 +1,22 @@
+.container-1{
+  margin-left: 5%;
+  margin-right: 4%; 
+}
+.modifyText{
+  font-family: 'Satisfy', cursive;
+  font-size: 30px;
+
+}
+.align {
+  margin-left: 0px;
+}
+.board{
+     
+  border: 18px solid rgb(230, 227, 227);
+  
+
+}
+.buttonColour{
+   background-color:rgb(241, 64, 117);
+   color: ivory;
+}

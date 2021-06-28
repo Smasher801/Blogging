@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(255, 196, 0);
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+.projectCard {
+    background-color:rgb(255, 196, 0);
+    padding: 0;
+    border-radius: 15px;
+    margin:10px 0;
+    color: black;
+    width: 40%;
+
+}
+
+.name{
+    background-color: ivory;
+    padding: 2%;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+    
+}
+.name1{
+    background-color:lightgray;
+    padding: 2%;
+}
+.setting{
+    margin : 0 auto;
+}
+
+.delete{
+    display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(17, 1, 1, .6); /* Black w/ opacity */
+}
+.form4{
+    background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  
+  border: 1px solid #888;
+  width: 33%;
+}
